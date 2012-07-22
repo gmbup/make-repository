@@ -1,0 +1,37 @@
+/*Page Layout*/
+div#container   {
+   text-align:center;
+   width:800px;
+   margin:0 auto;
+}
+div#header   {
+   width:100%;
+   text-align:left;
+   margin:0 0 1em 0;
+}
+div#wrapper   {
+   float:right;
+   width:650px;
+}
+div#contents   {
+   float:left;
+   width:480px;
+   text-align:left;
+   margin:0 10px;
+}
+div#sidebar2   {
+   float:right;
+   width:150px;
+   text-align:left;
+}
+div#sidebar1   {
+   float:left;
+   width:150px;
+   text-align:left;
+}
+div#footer   {
+   clear:both;
+   width:100%;
+   text-align:left;
+   margin:1em 0;
+}
